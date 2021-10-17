@@ -1,5 +1,5 @@
 
-public class removedupli {
+public class removeduplicates {
     public static boolean[] map = new boolean[26];
 
     public static void removeDuplicate(String str, int index, String newString) {
